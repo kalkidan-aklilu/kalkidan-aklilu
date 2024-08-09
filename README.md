@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalkidan-aklilu
-- 👀 I’m interested in data analysis, and applying data science to solve real-world problems
+- 👀 I’m interested in data analysis, machine learning, and applying data science to solve real-world problems
 - 🌱 I’m currently learning Data Science at ALX Africa and working on a research
 - 💞️ I’m looking to collaborate on data science projects, especially those related to urban planning and infrastructure
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kalkidan-aklilu-ds/) | Email: kalaki0191@gmail.com | Phone: +251 941 399 253
